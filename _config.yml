@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "bio-photo.jpg"
   name             : "Sujit Kumar Sikder"
-  pronouns         : # example: "he/him"  
+  pronouns         : "he/him"  
   bio              : "Researching for spatial sustianability"
   location         : "Dresden, Germany"
   employer         : "Leibniz Institute of Ecological Urban and Regional Development"
@@ -57,7 +57,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "sujit-sikder-a4971523"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
