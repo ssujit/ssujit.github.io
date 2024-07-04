@@ -10,11 +10,11 @@
 locale                   : "en-US"
 title                    : "Your Name / Site Title"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Sujit Kumar Sikder"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://ssujit.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "ssujit/ssujit.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -22,13 +22,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  name             : "Sujit Kumar Sikder"
+  pronouns         : # example: "he/him"  
+  bio              : "Care about people-place-technology-focused scientific innovations to support urban/city regions, but also equally sensitive to governance. Working within an interdisciplinary research team, where major topics of study are: spatial data science, spatial-temporal analysis, land use monitoring, geovisualisation and citizen science for making spatial sustainable transformation happen. "
   location         : "Earth"
   employer         : "Red Brick University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "s.sikder(at)ioer.de" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
