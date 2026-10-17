@@ -6,7 +6,7 @@ subtitle: <a href='#'>Researching at the Leibniz Institute of Ecological Urban a
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: photo_Sujit_Sikder.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Weberplatz 1</p>
