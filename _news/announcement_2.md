@@ -1,33 +1,17 @@
 ---
 layout: post
-title: A long announcement with details
-date: 2015-11-07 16:11:00-0400
-inline: false
+title: Call for papers: Transformative Governance in the Digital Age
+date: 2026-10-20
+inline: true
 related_posts: false
 ---
 
-Announcements and news can be much longer than just quick inline posts. In fact, they can have all the features available for the standard blog posts. See below.
+I’m pleased to share a call for papers for **“Transformative Governance in the Digital Age: Towards Sustainable Urban and Regional Futures,”** a special collection in [*Data & Policy*](https://www.cambridge.org/core/journals/data-and-policy).
 
----
+The collection explores how digitalisation, data, and emerging technologies can support more sustainable and equitable urban and regional futures. Topics include data-driven policymaking, digital governance, geospatial information, data infrastructures, digital participation, spatial intelligence, and people-centred digital twins. Submissions are also welcome from researchers who did not present at the IOER conference.
 
-Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptown vinyl kitsch. Four loko meh 8-bit, tousled banh mi tilde forage Schlitz dreamcatcher twee 3 wolf moon. Chambray asymmetrical paleo salvia, sartorial umami four loko master cleanse drinking vinegar brunch. <a href="https://www.pinterest.com">Pinterest</a> DIY authentic Schlitz, hoodie Intelligentsia butcher trust fund brunch shabby chic Kickstarter forage flexitarian. Direct trade <a href="https://en.wikipedia.org/wiki/Cold-pressed_juice">cold-pressed</a> meggings stumptown plaid, pop-up taxidermy. Hoodie XOXO fingerstache scenester Echo Park. Plaid ugh Wes Anderson, freegan pug selvage fanny pack leggings pickled food truck DIY irony Banksy.
+**Submission deadline: 29 January 2027.** Articles should be submitted through the [Data & Policy ScholarOne portal](https://mc.manuscriptcentral.com/dataandpolicy), selecting the special collection when prompted. The journal welcomes research articles, commentaries, translational papers, and data papers. The call notes that publication-cost support is available for authors without funding or an open-access agreement.
 
-#### Hipster list
+I’m one of the guest editors, alongside [Prof. Martin Behnisch](https://www.ioer.de/en/institute/staff/behnisch), [Prof. Sarah Giest](https://www.universiteitleiden.nl/en/staffmembers/sarah-giest), and [Prof. Ursula Eicker](https://www.concordia.ca/faculty/ursula-eicker.html).
 
-<ul>
-    <li>brunch</li>
-    <li>fixie</li>
-    <li>raybans</li>
-    <li>messenger bag</li>
-</ul>
-
-Hoodie Thundercats retro, tote bag 8-bit Godard craft beer gastropub. Truffaut Tumblr taxidermy, raw denim Kickstarter sartorial dreamcatcher. Quinoa chambray slow-carb salvia readymade, bicycle rights 90's yr typewriter selfies letterpress cardigan vegan.
-
----
-
-Pug heirloom High Life vinyl swag, single-origin coffee four dollar toast taxidermy reprehenderit fap distillery master cleanse locavore. Est anim sapiente leggings Brooklyn ea. Thundercats locavore excepteur veniam eiusmod. Raw denim Truffaut Schlitz, migas sapiente Portland VHS twee Bushwick Marfa typewriter retro id keytar.
-
-> We do not grow absolutely, chronologically. We grow sometimes in one dimension, and not in another, unevenly. We grow partially. We are relative. We are mature in one realm, childish in another.
-> —Anais Nin
-
-Fap aliqua qui, scenester pug Echo Park polaroid irony shabby chic ex cardigan church-key Odd Future accusamus. Blog stumptown sartorial squid, gastropub duis aesthetic Truffaut vero. Pinterest tilde twee, odio mumblecore jean shorts lumbersexual.
+[Read the full call for papers](https://www.cambridge.org/core/journals/data-and-policy/announcements/call-for-papers/transformative-governance-in-the-digital-age-towards-sustainable-urban-and-regional-futures).
