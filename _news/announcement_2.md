@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Call for papers: Transformative Governance in the Digital Age
+title: Call for papers - Transformative Governance in the Digital Age
 date: 2026-10-20
 inline: true
 related_posts: false

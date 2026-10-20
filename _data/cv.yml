@@ -6,7 +6,7 @@ unverified_legacy_site_data:
     url: https://www.ssujit.github.io
 cv:
   name: Dr.-Ing. Sujit Kumar Sikder
-  label: Research Associate
+  label: Researcher
   email: s.sikder@ioer.de
   phone: +49 351 4679 273
   location: Dresden, Germany
@@ -56,7 +56,6 @@ cv:
         studyType: Bachelor of Urban and Rural Planning
         start_date: 2001
         end_date: 2005
-
     Experience:
       - company: Leibniz Institute of Ecological Urban and Regional Development (IOER)
         position: Senior Scientist; Research Associate
@@ -82,7 +81,6 @@ cv:
         location: Bangladesh
         start_date: 2006-03
         end_date: 2009-07
-
     Memberships and Functions:
       - name: Area Co-Editor, Journal of Data & Policy
         summary: "Area 1: Data-driven Transformations in Policy and Governance."
@@ -95,7 +93,6 @@ cv:
       - name: Member, German Association for Geodesy, Geoinformation and Land Management (DVW)
       - name: Member, German Research Data Alliance (RDA)
       - name: Life member, Bangladesh Association of Planners (BIP)
-
     Awards and Scholarships:
       - title: Doctoral Fellowship for 36 months
         awarder: Catholic Academic Exchange Service (KAAD), Bonn, Germany
@@ -105,7 +102,6 @@ cv:
         awarder: Climate-KIC Hessen, Germany
       - title: International Conference Travel Grant
         awarder: BMBF, BIGS-IPID4all through the University of Bonn, Germany
-
     Selected Publications:
       - title: "Integrating Local Large Language Models into WebGIS: An Open-source Framework for Natural Language Interaction"
         authors:
