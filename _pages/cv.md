@@ -4,10 +4,10 @@ permalink: /cv/
 title: CV
 nav: true
 nav_order: 5
-cv_pdf: /assets/pdf/example_pdf.pdf # you can also use external links here
+cv_pdf: ""
 cv_format: rendercv # options: rendercv, jsonresume
-description: This is a description of the page. You can modify it in '_pages/cv.md'. You can also change or remove the top pdf download button.
+description: Curriculum vitae of Dr.-Ing. Sujit Kumar Sikder, Research Associate at the Leibniz Institute of Ecological Urban and Regional Development.
 toc:
   sidebar: left
 ---
-Find here my profile: https://www.ioer.de/en/institute/staff/sikder
+See the [IOER staff profile](https://www.ioer.de/en/institute/staff/sikder) for the institute biography and complete publication list.

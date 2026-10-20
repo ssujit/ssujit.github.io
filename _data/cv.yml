@@ -1,4 +1,4 @@
-cv:
+unverified_legacy_data:
   name: Albert Einstein
   label: Scientist
   email: einstein@example.com
@@ -187,3 +187,177 @@ cv:
       - name: Professor Jane Smith
         icon: fa-solid fa-thumbtack
         reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+
+unverified_legacy_site_data:
+  cv_pdf: /assets/pdf/example_pdf.pdf
+  email: s.sikder@ioer.com
+  custom_social:
+    title: Custom Social
+    url: https://www.ssujit.github.io
+cv:
+  name: Dr.-Ing. Sujit Kumar Sikder
+  label: Research Associate
+  email: s.sikder@ioer.de
+  phone: +49 351 4679 273
+  location: Dresden, Germany
+  image: https://www.ioer.de/fileadmin/_processed_/5/0/csm_Sujit_Sikder03501_60573522d7.jpg
+  summary: Research Associate at the Leibniz Institute of Ecological Urban and Regional Development (IOER). His work explores actionable spatial insights for net-zero pathways through an integrated perspective on land use, energy, and mobility systems.
+
+  social_networks:
+    - network: GitHub
+      username: ssujit
+    - network: LinkedIn
+      username: sujit-sikder-a4971523
+    - network: Google Scholar
+      username: 2hZ2kKUAAAAJ
+    - network: ORCID
+      username: 0000-0002-0265-7394
+
+  address:
+    street: Weberplatz 1
+    city: Dresden
+    region: Saxony
+    postalCode: 01099
+    countryCode: DE
+
+  sections:
+    Education:
+      - institution: University of Bonn
+        location: Bonn, Germany
+        url: https://www.uni-bonn.de/en
+        area: Engineering
+        studyType: PhD
+        start_date: 2012
+        end_date: 2017
+        thesis: Exploring Urban Structure to Approach Energy Optimization
+        thesis_url: https://hdl.handle.net/20.500.11811/1674
+
+      - institution: Technical University of Munich
+        location: Munich, Germany
+        url: https://www.tum.de/en/
+        area: International Master on Land Management and Land Tenure
+        studyType: Master of Science
+        start_date: 2009
+        end_date: 2011
+
+      - institution: Khulna University
+        location: Khulna, Bangladesh
+        area: Urban and Rural Planning
+        studyType: Bachelor of Urban and Rural Planning
+        start_date: 2001
+        end_date: 2005
+
+    Experience:
+      - company: Leibniz Institute of Ecological Urban and Regional Development (IOER)
+        position: Senior Scientist; Research Associate
+        location: Dresden, Germany
+        start_date: 2017-08
+        end_date: Present
+        summary: Research Area Spatial Information and Modeling (FBM) and Research Data Centre (IOER-FDC); previously Research Associate in the SoRa and OpenGeoEdu projects in the Research Area Monitoring of Settlement and Open Space Development.
+
+      - company: University of Bonn, Department of Urban Planning and Land Management, Institute of Geodesy and Geoinformation
+        position: Research Associate and PhD Fellow
+        location: Bonn, Germany
+        start_date: 2012-04
+        end_date: 2017-07
+
+      - company: United Nations University, Institute for Environment and Human Security
+        position: Research Intern and Data Analyst, Agent-based Modeling
+        location: Bonn, Germany
+        start_date: 2012-01
+        end_date: 2012-03
+
+      - company: Urban planning and geoinformation consulting
+        position: Urban Planner and Technical Consultant (Geoinformation)
+        location: Bangladesh
+        start_date: 2006-03
+        end_date: 2009-07
+
+    Memberships and Functions:
+      - name: Area Co-Editor, Journal of Data & Policy
+        summary: Area 1: Data-driven Transformations in Policy and Governance.
+      - name: Associate Editor (Guest), Frontiers in Sustainable Cities
+        summary: Section on Smart Technologies and Cities; special topic on data-driven approaches to enabling urban transformation.
+      - name: Journal reviewer
+        summary: Reviews for Nature, PLOS ONE, Frontiers in Sustainable Cities, Journal of Urban Planning and Development, Sustainable Cities and Society, Urban Management, Habitat International, Environmental Management, GIScience & Remote Sensing, Tropical Conservation Science, Transactions in GIS, ISPRS Journal of Geo-Information, and Urban Science.
+      - name: Research grant proposal reviewer
+        summary: Economic and Social Research Council (ESRC), UK Research and Innovation (UKRI).
+      - name: Member, German Association for Geodesy, Geoinformation and Land Management (DVW)
+      - name: Member, German Research Data Alliance (RDA)
+      - name: Life member, Bangladesh Association of Planners (BIP)
+
+    Awards and Scholarships:
+      - title: Doctoral Fellowship for 36 months
+        awarder: Catholic Academic Exchange Service (KAAD), Bonn, Germany
+      - title: Postgraduate Fellowship for 20 months
+        awarder: German Academic Exchange Service (DAAD), Bonn, Germany
+      - title: Jury Award for Innovative Idea on Retrofit Privately Owned Buildings in Frankfurt am Main
+        awarder: Climate-KIC Hessen, Germany
+      - title: International Conference Travel Grant
+        awarder: BMBF, BIGS-IPID4all through the University of Bonn, Germany
+
+    Selected Publications:
+      - title: Integrating Local Large Language Models into WebGIS: An Open-source Framework for Natural Language Interaction
+        authors:
+          - A. Rahaman
+          - S. K. Sikder
+        publisher: AGIT Conference
+        releaseDate: 2026
+        url: https://doi.org/10.25598/agit/2026-32
+      - title: Nature-based solutions trends in urban water security: a pre-2021 retrospective look from science and practice
+        authors:
+          - R. Habeeb
+          - S. Javaid
+          - S. K. Sikder
+          - W. Wende
+          - R. Ortlepp
+        publisher: Sustainable Communities
+        releaseDate: 2026
+        url: https://doi.org/10.1080/29931282.2026.2704990
+      - title: Global open data in local urban development: an actionable framework for adopting Global Human Settlement Layer (GHSL) in the Global South
+        authors:
+          - S. K. Sikder
+          - M. Kapoor
+          - P. Parmar
+          - M. T. Islam
+          - Kh Md Nahiduzzaman
+        publisher: Sustainable Communities
+        releaseDate: 2025
+        url: https://doi.org/10.1080/29931282.2025.2518428
+      - title: Digital and data-driven transformations in governance: a landscape review
+        authors:
+          - S. Giest
+          - K. McBride
+          - A. Nikiforova
+          - S. K. Sikder
+        publisher: Data & Policy
+        releaseDate: 2025
+        url: https://doi.org/10.1017/dap.2024.47
+      - title: Rethinking Data Management Planning: Introducing Research Output Management Planning (ROMPi) Approach
+        authors:
+          - S. Della Chiesa
+          - S. K. Sikder
+        publisher: Data Science Journal
+        releaseDate: 2024
+        url: https://doi.org/10.5334/dsj-2024-034
+      - title: Augmenting EV charging infrastructure towards transformative sustainable cities: An equity-based approach
+        authors:
+          - S. K. Sikder
+          - M. Nagarajan
+          - N. Mustafee
+        publisher: Technological Forecasting and Social Change
+        releaseDate: 2023
+        url: https://doi.org/10.1016/j.techfore.2023.122829
+      - title: Geospatial analysis of building structures in Megacity Dhaka: the use of spatial statistics for promoting data-driven decision-making
+        authors:
+          - S. K. Sikder
+          - M. Behnisch
+          - H. Herold
+          - T. Koetter
+        publisher: Journal of Geovisualization and Spatial Analysis
+        releaseDate: 2019
+        url: https://doi.org/10.1007/s41651-019-0029-y
+
+    Research Interests:
+      - name: Spatial and urban research
+        keywords: Urban science, spatial transformation, spatial analysis, hybrid modelling, geocomputation, open data, data management, land use, energy, mobility, net-zero pathways
