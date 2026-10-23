@@ -76,26 +76,15 @@ cv:
         location: Bangladesh
         start_date: 2006-03
         end_date: 2009-07
-
-    Memberships:
-      - position: Area Co-Editor
-        company: Journal of Data and Policy
-        summary: Area 1 Data-driven Transformations in Policy and Governance
-      - position: Associate Editor (Guest)
-        company: Frontiers in Sustainable Cities
-        summary: Section on Smart Technologies and Cities; special topic on data-driven approaches to enabling urban transformation.
-      - position: Journal reviewer
-        company: Journal of Urban Planning and Development
-        summary: Reviews for Nature, PLOS ONE, Frontiers in Sustainable Cities, Journal of Urban Planning and Development, Sustainable Cities and Society, Urban Management, Habitat International, Environmental Management, GIScience & Remote Sensing, Tropical Conservation Science, Transactions in GIS, ISPRS Journal of Geo-Information, and Urban Science.
-      - position: Research grant proposal reviewer
-        company: Economic and Social Research Council (ESRC)
-      - position: Research grant proposal reviewer
-        company: UK Research and Innovation (UKRI)
-      - position: Member
+        
+    Membership:
+      - title: Area Co-Editor
+        company: Journal of Data and Policy, Area 1 Data-driven Transformations in Policy and Governance
+      - title: Associate Editor (Guest)
+        company: Frontiers in Sustainable Cities, Section on Smart Technologies and Cities
+      - title: Member
         company: German Association for Geodesy, Geoinformation and Land Management (DVW)
-      - position: Life Member 
-        company: Bangladesh Association of Planners (BIP)
-      - position: Life member
+      - title: LifeMember
         company: Bangladesh Association of Planners (BIP)
 
     Awards:
@@ -164,5 +153,5 @@ cv:
         url: https://doi.org/10.1007/s41651-019-0029-y
 
     Interests:
-      - name: Spatial Sustainability
+      - name: Spatial Sustainability 
         keywords: Urban science, spatial transformation, spatial analysis, hybrid modelling, geocomputation, open data, data management, land use, energy, mobility, net-zero pathways
