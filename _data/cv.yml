@@ -1,9 +1,3 @@
-unverified_legacy_site_data:
-  cv_pdf: /assets/pdf/example_pdf.pdf
-  email: s.sikder@ioer.com
-  custom_social:
-    title: Custom Social
-    url: https://www.ssujit.github.io
 cv:
   name: Dr.-Ing. Sujit Kumar Sikder
   label: Researcher
@@ -84,24 +78,31 @@ cv:
         end_date: 2009-07
 
     Memberships and Functions:
-      - position: Area Co-Editor - Area 1 Data-driven Transformations in Policy and Governance.
-        company: Journal of Data and Policy,  Cambridge University Press
+      - position: Area Co-Editor
+        company: Journal of Data and Policy
+        summary: Area 1 Data-driven Transformations in Policy and Governance
+     
       - position: Associate Editor (Guest), Frontiers in Sustainable Cities
         company: Frontiers in Sustainable Cities
         summary: Section on Smart Technologies and Cities; special topic on data-driven approaches to enabling urban transformation.
+      
       - position: Journal reviewer
         company: Journal of Urban Planning and Development
         summary: Reviews for Nature, PLOS ONE, Frontiers in Sustainable Cities, Journal of Urban Planning and Development, Sustainable Cities and Society, Urban Management, Habitat International, Environmental Management, GIScience & Remote Sensing, Tropical Conservation Science, Transactions in GIS, ISPRS Journal of Geo-Information, and Urban Science.
+     
       - position: Research grant proposal reviewer
         company: Economic and Social Research Council (ESRC), UK Research and Innovation (UKRI).
+     
       - position: Member
         company: German Association for Geodesy, Geoinformation and Land Management (DVW)
+      
       - position: Member
         company: German Research Data Alliance (RDA)
+     
       - position: Life member
         company: Bangladesh Association of Planners (BIP)
 
-    Awards and Scholarships:
+    Awards:
       - title: Doctoral Fellowship for 36 months
         awarder: Catholic Academic Exchange Service (KAAD), Bonn, Germany
       - title: Postgraduate Fellowship for 20 months
@@ -111,7 +112,7 @@ cv:
       - title: International Conference Travel Grant
         awarder: BMBF, BIGS-IPID4all through the University of Bonn, Germany
     
-    Selected Publications:
+    Publications:
       - title: "Integrating Local Large Language Models into WebGIS: An Open-source Framework for Natural Language Interaction"
         authors:
           - A. Rahaman
@@ -166,6 +167,6 @@ cv:
         releaseDate: 2019
         url: https://doi.org/10.1007/s41651-019-0029-y
 
-    Research Interests:
+    Interests:
       - name: Spatial Sustainability
         keywords: Urban science, spatial transformation, spatial analysis, hybrid modelling, geocomputation, open data, data management, land use, energy, mobility, net-zero pathways
