@@ -13,7 +13,7 @@ Geographic information systems (GIS) have long helped us organize, map, and anal
 
 #### GIS trend from the history
 
-![Figure: GIS trend](https://www.tandfonline.com/cms/asset/2ae6d84b-2719-4de7-9c66-d9070499bea1/rsco_a_2518428_f0002_c.jpg)
+<img src="https://www.tandfonline.com/cms/asset/2ae6d84b-2719-4de7-9c66-d9070499bea1/rsco_a_2518428_f0002_c.jpg" alt="Figure: GIS trend" width="700" style="max-width: 100%; height: auto;">
 
 *Figure: Sikder et al. (2025), [full paper](https://doi.org/10.1080/29931282.2025.2518428)*
 
@@ -36,4 +36,3 @@ The underlying transformation is not simply about adding chat interfaces to GIS.
 > One Thing: human oversight, reproducibility, data provenance, and transparent decision-making remain essential, particularly for complex spatial analyses.
 
 The emerging question is no longer just how we can talk to GIS, but how GIS agents can autonomously reason and act on spatial data to support evidence-based decisions. We, GIS practioners and professions need to think critical but responsible how to shape the future. 
-
