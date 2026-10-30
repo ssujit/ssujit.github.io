@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "GIS Trend 1"
-date: 2026-10-30 12:00:00
+date: 2026-10-29 12:00:00
 description: "How artificial intelligence and machine learning are expanding the ways we analyze geographic data."
-tags: [GIS, GeospatialAI, AgenticAI,ConversationalGIS, SpatialDataScience, LLM,  GeoAI]
+tags: [GIS, GeospatialAI, AgenticAI]
 categories: [GIS trends]
 ---
 

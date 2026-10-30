@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Weberplatz 1</p>
-    <p>01099 Dresden</p>
+    <p>01217 Dresden</p>
     <p>Germany</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"

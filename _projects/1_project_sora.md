@@ -2,7 +2,7 @@
 layout: page
 title: SORA
 description: Social-spatial science research data infrastructure
-img: assets/img/12.jpg
+img: assets/img/SoRa-logo_border_bg-transp.svg
 importance: 1
 category: work
 related_publications: false
