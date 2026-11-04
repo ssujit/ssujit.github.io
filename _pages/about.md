@@ -27,5 +27,5 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am trained spatial planning professional having experiences in diverse practical projects, academic research and data infrastructure services development. My current projects are exploring on the topic of spatially actionable insights making approaches to advance pathways toward a net-zero future through an integrated perspective on land use, energy, and mobility systems.
+I am a spatial science professional with experience in diverse projects, academic research, and the development of data infrastructure services. My current work explores approaches to generating spatially actionable insights to advance pathways towards a net-zero future, adopting an integrated perspective on land use, energy, and mobility systems.
 
