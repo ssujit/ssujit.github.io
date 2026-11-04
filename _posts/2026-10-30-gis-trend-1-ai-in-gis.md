@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GIS Trend 1"
+title: "GIS Trend 1: Going Agentic"
 date: 2026-10-29 12:00:00
 description: "How artificial intelligence and machine learning are expanding the ways we analyze geographic data."
 tags: [GIS, GeospatialAI, AgenticAI]
