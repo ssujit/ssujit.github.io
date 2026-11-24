@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "FAIRness presentation now available on Zenodo"
-date: 2026-11-24
+date: 2026-11-23
 inline: true
 related_posts: false
 ---
