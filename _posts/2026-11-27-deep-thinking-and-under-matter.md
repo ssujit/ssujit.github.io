@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "GIS Trend 1: Spatial minds in Agentic AI age - Deep thinking and understaning matters"
-date: 2026-11-27 10:00:00
+title: "GIS Trend 2: Spatial minds in Agentic AI age - Deep thinking and understaning matters"
+date: 2026-11-26 10:00:00
 description: "Why spatial expertise and deliberate thinking matter more as AI changes how geospatial work is produced."
 tags: [AI, GeospatialAI, SpatialThinking, Education]
 categories: [AI]
